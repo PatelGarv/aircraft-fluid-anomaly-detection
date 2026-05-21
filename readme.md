@@ -25,9 +25,9 @@ maintenance and improve safety margins.
 ## Results
 | Metric | Value |
 |---|---|
-| Precision | XX% |
-| Recall | XX% |
-| F1 Score | XX% |
+| Precision | 2% |
+| Recall | 2% |
+| Overall F1 Score | 92% |
 
 ## Key Features
 - Rolling window feature engineering (mean, std, lag, delta)
