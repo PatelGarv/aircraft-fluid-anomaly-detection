@@ -45,3 +45,22 @@ jupyter notebook notebook/aircraft_anomaly_detection.ipynb
 
 ## Dashboard
 ![Dashboard](outputs/dashboard.jpg)
+
+## Proposed CAD model
+-  retrofit sensor platform using edge AI across hydraulic, landing gear, and fuel systems. Honeywell backs the hardware side. FAA/DGCA controls whether the product can legally fly.
+![CAD model](CAD-model/qr-code.png)
+
+### Proposed Markets and Segmentation
+## Segment 1: Commercial Passenger Airlines
+- Customer Profile: Airlines focused on daily passenger travel.
+- Segmentation by Need: to eliminate turnaround time delays caused by discovering hydraulic leaks during pre-flight checks
+
+## Segment 2: Cargo & Logistics
+- Customer Profile: Companies managing shipping and cargo fleets
+- Segmentation by Need: the segment is focused on avoiding grounded aircraft and preventing schedule disruptions
+ 
+## Segment 3: MRO Providers
+- Customer Profile: Third-party companies contracted for aircraft maintenance.
+- Segmentation by Need: They need tools or processes that make identifying issues faster.
+
+
