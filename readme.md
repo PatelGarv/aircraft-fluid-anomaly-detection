@@ -47,4 +47,4 @@ jupyter notebook notebook/aircraft_anomaly_detection.ipynb
 ...
 
 ## Screenshots
-![Dashboard](outputs/dashboard.png)
+![Dashboard](outputs/dashboard.jpg)
