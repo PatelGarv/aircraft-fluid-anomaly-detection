@@ -48,7 +48,7 @@ jupyter notebook notebook/aircraft_anomaly_detection.ipynb
 
 ## Proposed CAD model
 -  retrofit sensor platform using edge AI across hydraulic, landing gear, and fuel systems. Honeywell backs the hardware side. FAA/DGCA controls whether the product can legally fly.
-<img src="CAD-model/qr-code.png" width="600"/>
+<img src="CAD-model/qr-code.png" width="300"/>
 
 ### Proposed Markets and Segmentation
 ## Segment 1: Commercial Passenger Airlines
