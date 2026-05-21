@@ -43,8 +43,5 @@ pip install -r requirements.txt
 jupyter notebook notebook/aircraft_anomaly_detection.ipynb
 ```
 
-## Project Structure
-...
-
-## Screenshots
+## Dashboard
 ![Dashboard](outputs/dashboard.jpg)
