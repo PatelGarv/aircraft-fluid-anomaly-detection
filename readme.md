@@ -25,8 +25,8 @@ maintenance and improve safety margins.
 ## Results
 | Metric | Value |
 |---|---|
-| Precision | 2% |
-| Recall | 2% |
+| Precision | 95% |
+| Recall | 88.3% |
 | Overall F1 Score | 92% |
 
 ## Key Features
